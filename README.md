@@ -1,4 +1,6 @@
- Project Name: Management Student System
+http://localhost:xxxx xxxx see the port:xxxx in output
+
+Project Name: Management Student System
 Project Description : This project enables the admin can register and log in to this system to add, edit, delete, and search the student list in the system. The project was built with the React framework Java SpringBoot, Spring Security, and MongoDB.
 
 ![Screenshot 2024-03-03 094312](https://github.com/ChunLoon/Students_management_System_backend/assets/104199648/2c69f306-9f2c-4857-8b4f-db2960084c94)
